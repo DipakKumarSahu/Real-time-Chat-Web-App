@@ -111,6 +111,53 @@
 
 ---
 
+## 📸 Screenshots & Demo Images
+
+<div align="center">
+
+### 🏠 Home Page
+*Welcome page with navigation to login and signup*
+<br/>
+![Home Page](https://github.com/user-attachments/assets/3e31b927-76a8-4abe-85db-01517ac60d38)
+![home2](https://github.com/user-attachments/assets/3a96d559-300d-4be3-9281-13702ea1ca83)
+
+
+
+### ✍️ Signup Page
+*User registration with validation and secure input*
+<br/>
+![signup](https://github.com/user-attachments/assets/9b297a42-47ab-4342-90c6-204bdc88e01b)
+
+
+### 🔐 Login Page
+*Secure login using JWT authentication*
+<br/>
+![login](https://github.com/user-attachments/assets/dc8c7e3d-a665-4102-9727-d296d1f1c635)
+
+
+### 👥 Group Chat
+*Multi-participant chat with real-time messaging and online status*
+<br/>
+![groupchat](https://github.com/user-attachments/assets/f146682f-1f42-4628-8029-24bb18877836)
+
+
+### 💬 Private Chat
+*Direct 1-to-1 messaging with typing indicators*
+<br/>
+![private chat](https://github.com/user-attachments/assets/33d48e60-3cd8-41d7-9e56-9d6a4916524e)
+
+
+### 🔔 Unseen Message Count
+*Red badge showing number of unread messages*
+<br/>
+![unseen_count](https://github.com/user-attachments/assets/c6fb5e84-2352-4bd5-920b-d96741d6fa68)
+
+
+</div>
+
+---
+
+
 ## 🏗 System Architecture
 
 ```
