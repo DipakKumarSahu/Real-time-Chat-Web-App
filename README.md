@@ -246,7 +246,7 @@ If you find RealChat useful, please consider:
 
 <div align="center">
 
-### 🎉 **Built with ❤️ by the RealChat Team**
+### 🎉 **Thank you ❤️ for reading this**
 
 *Making real-time communication accessible, secure, and enjoyable for everyone.*
 
