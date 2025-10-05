@@ -206,8 +206,6 @@
 - Click on any chat to mark messages as read
 - Online/offline status updates automatically
 
-## 📸 Screenshots
-
 <div align="center">
 
 ### 🔐 Authentication
