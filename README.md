@@ -224,15 +224,6 @@
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ### ⭐ **Show Your Support**
 If you find RealChat useful, please consider:
 - ⭐ Starring this repository
