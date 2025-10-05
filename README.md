@@ -205,8 +205,9 @@
 - Red badges show unseen message counts
 - Click on any chat to mark messages as read
 - Online/offline status updates automatically
-
+---
 <div align="center">
+
 
 ### 🔐 Authentication
 *Secure login with modern UI design*
